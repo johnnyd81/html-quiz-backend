@@ -1,0 +1,169 @@
+{
+    "questions": [
+        {
+            "question": "What is the generic block HTML tag that acts as a container to organize portions of code?",
+            "options": [
+                "<span>",
+                "<p>",
+                "<div>",
+                "<a>"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which attribute does an img tag need to help people using screenreaders?",
+            "options": [
+                "alt",
+                "href",
+                "height",
+                "width"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Where is the meta tag located in the HTML document?",
+            "options": [
+                "<body>",
+                "<style>",
+                "<script>",
+                "<head>"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Which attribute on a HTML element allows a tooltip about the element to be displayed?",
+            "options": [
+                "alt",
+                "style",
+                "title",
+                "src"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which attribute allows the elements of a table to span multiple columns ?",
+            "options": [
+                "col",
+                "colgroup",
+                "rowspan",
+                "colspan"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "How is a hyperlink from an <a> element opened in an <iframe> element on the same webpage ?",
+            "options": [
+                "Adding an id attribute to the iframe and using it as the value of the target attribute of the a tag element.",
+                "Adding a name attribute to the iframe and using it as the value of the target attribute of the a tag.",
+                "Changing the target attribute value of the a tag element to _blank",
+                "Forget it, you can't open links on the same webpage as the <a> element."
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Why are semantic HTML elements important?",
+            "options": [
+                "They help search engines and other user devices to determine importance and context in a webpage.",
+                "They are shorter to type out.",
+                "They make the internet more colourful.",
+                "They allow you to use HTML in the python programming language."
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What are HTML description lists commonly used for?",
+            "options": [
+                "To display the styles of the webpage.",
+                "To implement a glossary or to display metadata(a list of key-value pairs).",
+                "To separate <ul> and <ol> tags.",
+                "To display images."
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which element defines an HTML dropdown list?",
+            "options": [
+                "<p>",
+                "<textarea>",
+                "<input>",
+                "<select>"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Which element in the head of the HTML document makes the webpage responsive?",
+            "options": [
+                "<meta charset=UTF-8 />",
+                "<meta name=viewport content=width=device-width, initial-scale=1 />",
+                "<link rel=stylesheet href=styles.css />",
+                "<title>Document</title>"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which tag allows characters to be displayed in a bold font?",
+            "options": [
+                "<code>",
+                "<abbr>",
+                "<i>",
+                "<strong>"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Which audio attribute allows an audio file to play automatically?",
+            "options": [
+                "<audio src=audio.mp3 playnow></audio>",
+                "<audio src=audio.mp3 autoplay></audio>",
+                "<audio src=audio.mp3 loop></audio>",
+                "<audio src=audio.mp3 controls></audio>"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "What is the <pre> HTML element used for?",
+            "options": [
+                "It represents a preformatted text that should be rendered how it is written in the HTML file.",
+                "An alternative to the <p> tag",
+                "Helps the prettier code formatter work more efficiently.",
+                "To precede the <hr> tag."
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which HTML character entity represents a non-breaking space?",
+            "options": [
+                "&buy;",
+                "&pound;",
+                "&reg;",
+                "&nbsp;"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Which semantic HTML tag represents a navigation bar?",
+            "options": [
+                "<navigation>",
+                "<div>",
+                "<nav>",
+                "<navbar>"
+            ],
+            "correctOption": 2,
+            "points": 10
+        }
+    ]
+}
